@@ -14,4 +14,4 @@
 ## 文档结构
 
 ## 系统结构概要
-![本地绝对路径](../Graduation-project/fig/整体架构.png)
+![相对路径](../Graduation-project/fig/整体架构.png)
