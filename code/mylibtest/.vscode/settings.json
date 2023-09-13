@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "shmdata.h": "c",
+        "stdlib.h": "c",
+        "ssl.h": "c",
+        "stdio.h": "c",
+        "types.h": "c",
+        "type_traits": "c"
+    }
+}

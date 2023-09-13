@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "stdlib.h": "c",
+        "string.h": "c",
+        "shm.h": "c",
+        "ssl.h": "c",
+        "cstdlib": "c",
+        "types.h": "c",
+        "err.h": "c",
+        "stat.h": "c",
+        "socket.h": "c",
+        "md5.h": "c",
+        "typeinfo": "c",
+        "*.tcc": "cpp",
+        "unistd.h": "c"
+    }
+}

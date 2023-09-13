@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Nodes"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"unistd.h": "c",
+			"features.h": "c",
+			"limits": "c",
+			"cstdio": "cpp",
+			"shmdata.h": "c",
+			"shm.h": "c"
+		}
+	}
+}

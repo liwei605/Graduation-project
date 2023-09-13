@@ -1,0 +1,7 @@
+Country Name (2 letter code) [AU]:LW
+State or Province Name (full name) [Some-State]:liwei
+Locality Name (eg, city) []:CQ   
+Organization Name (eg, company) [Internet Widgits Pty Ltd]:CQU
+Organizational Unit Name (eg, section) []:CS
+Common Name (e.g. server FQDN or YOUR name) []:server
+Email Address []:249920864@qq.com

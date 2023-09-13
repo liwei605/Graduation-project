@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "search.h": "c",
+        "metadatanode.h":"c"
+    }
+}
